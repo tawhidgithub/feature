@@ -6,7 +6,7 @@ This document provides details about the features implemented in the application
 
 Description
 
-The Animation module enhances the user experience by integrating smooth and engaging animations into the application. These animations help in providing visual feedback, improving usability, and making the app more interactive.
+The Animation module enhances the user experience by integrating smooth and engaging animations into the application. These animations help provide visual feedback, improve usability, and make the app more interactive.
 
 Features
 
